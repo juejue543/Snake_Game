@@ -12,6 +12,7 @@ s.bgcolor("black")
 s.title("The Amazing Game of Snake")
 s.tracer(0)
 
+
 def game():
     snake = Snake()
     food = Food()
